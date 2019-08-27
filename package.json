@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Mohammed Abdelhady Software Enginner",
   "main": "index.js",
-  "homepage": "https://Mohammed-Abdelhady.github.io/protofilo",
+  "homepage": "https://Mohammed-Abdelhady.github.io",
   "scripts": {
     "scss": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
