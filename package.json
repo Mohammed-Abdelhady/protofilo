@@ -6,8 +6,8 @@
   "scripts": {
     "scss": "node-sass -w scss/ -o dist/css/ --recursive"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["congar", "Moammed Abdelhady"],
+  "author": "congar",
   "license": "ISC",
   "dependencies": {
     "node-sass": "^4.12.0"
